@@ -38,9 +38,9 @@ Built using the **Brian2** simulator, the model is optimized for **real-time**, 
 
 ## 👤 Author
 
-**Aalokhya Karlapati**
-B.Tech – Computer Science & Artificial Intelligence
-Guide: Dr. Minakshmi Shaw
+**Aalokhya Karlapati**  
+B.Tech – Computer Science & Artificial Intelligence  
+**Guide:** Dr. Minakshmi Shaw  
 
 ## 🤝 Let’s Connect
 
